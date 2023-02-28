@@ -1,0 +1,55 @@
+OS: OS X 10.15.7 | Browser: Chrome 110 | Resolution: 1440x900 | Time: 28 Feb 2023 / 10:2:34  GMT+6
+Step	Data	Exp Result	XPath	cssSelector
+Open website	https://opensource-demo.orangehrmlive.com/web/index.php/auth/login			
+Click on "Username"			//input[@placeholder='Username']	input[placeholder='Username']
+Right click on "Username"			//input[@placeholder='Username']	input[placeholder='Username']
+Enter "John James O'Grady" into "Username"	John James O'Grady		//input[@placeholder='Username']	input[placeholder='Username']
+Right click on"******" into "Password"	******		//input[@placeholder='Password']	input[placeholder='Password']
+Enter "******" into "Password"	******		//input[@placeholder='Password']	input[placeholder='Password']
+Click on "Login"			//button[normalize-space()='Login']	button[type='submit']
+Enter "******" into "Password"	******		//input[@placeholder='Password']	input[placeholder='Password']
+Click on "Username"			//input[@placeholder='Username']	input[placeholder='Username']
+Right click on "Username"			//input[@placeholder='Username']	input[placeholder='Username']
+Enter "Rhoshandiatellyneshiaunneveshenk" into "Username"	Rhoshandiatellyneshiaunneveshenk		//input[@placeholder='Username']	input[placeholder='Username']
+Click on "Login"			//button[normalize-space()='Login']	button[type='submit']
+Enter "******" into "Password"	******		//input[@placeholder='Password']	input[placeholder='Password']
+Click on "Username"			//input[@placeholder='Username']	input[placeholder='Username']
+Right click on "Username"			//input[@placeholder='Username']	input[placeholder='Username']
+Enter "GoVeg.com" into "Username"	GoVeg.com		//input[@placeholder='Username']	input[placeholder='Username']
+Click on "Login"			//button[normalize-space()='Login']	button[type='submit']
+Enter "Admin" into "Username"	Admin		//input[@placeholder='Username']	input[placeholder='Username']
+Enter "******" into "Password"	******		//input[@placeholder='Password']	input[placeholder='Password']
+Click on "Login"			//button[normalize-space()='Login']	button[type='submit']
+Scroll down				
+Scroll up				
+Click on "10h 0m Today"			//i[@class='oxd-icon bi-stopwatch']	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > button:nth-child(2) > i:nth-child(1)
+Click on "yyyy-mm-dd"			//input[@placeholder='yyyy-mm-dd']	input[placeholder='yyyy-mm-dd']
+Right click on "yyyy-mm-dd"			//input[@placeholder='yyyy-mm-dd']	input[placeholder='yyyy-mm-dd']
+Click on "yyyy-mm-dd"			//input[@placeholder='yyyy-mm-dd']	input[placeholder='yyyy-mm-dd']
+Double click on "yyyy-mm-dd"			//input[@placeholder='yyyy-mm-dd']	input[placeholder='yyyy-mm-dd']
+Click on "yyyy-mm-dd"			//input[@placeholder='yyyy-mm-dd']	input[placeholder='yyyy-mm-dd']
+Right click on "yyyy-mm-dd"			//input[@placeholder='yyyy-mm-dd']	input[placeholder='yyyy-mm-dd']
+Click on "February2023SMTWTFS12345678910"			//i[@class='oxd-icon bi-calendar oxd-date-input-icon']	.oxd-icon.bi-calendar.oxd-date-input-icon
+Click on "23"			//div[contains(text(),'23')]	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > form:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(23) > div:nth-child(1)
+Click on "Time"			//i[@class='oxd-icon bi-clock oxd-time-input--clock']	.oxd-icon.bi-clock.oxd-time-input--clock
+Click on "pm"			//input[@name='pm']	input[value='PM']
+Click on "none"			//i[@class='oxd-icon bi-chevron-down oxd-icon-button__icon oxd-time-hour-input-down']	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > form:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > i:nth-child(3)
+Click on "none"			//i[@class='oxd-icon bi-chevron-down oxd-icon-button__icon oxd-time-hour-input-down']	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > form:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > i:nth-child(3)
+Double click on "none"			//i[@class='oxd-icon bi-chevron-down oxd-icon-button__icon oxd-time-hour-input-down']	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > form:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > i:nth-child(3)
+Click on "none"			//i[@class='oxd-icon bi-chevron-down oxd-icon-button__icon oxd-time-hour-input-down']	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > form:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > i:nth-child(3)
+Click on "none"			//i[@class='oxd-icon bi-chevron-down oxd-icon-button__icon oxd-time-hour-input-down']	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > form:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > i:nth-child(3)
+Click on "none"			//i[@class='oxd-icon bi-chevron-down oxd-icon-button__icon oxd-time-hour-input-down']	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > form:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > i:nth-child(3)
+Click on "none"			//i[@class='oxd-icon bi-chevron-down oxd-icon-button__icon oxd-time-minute-input-down']	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > form:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(3) > i:nth-child(3)
+Click on "none"			//i[@class='oxd-icon bi-chevron-down oxd-icon-button__icon oxd-time-minute-input-down']	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > form:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(3) > i:nth-child(3)
+Double click on "none"			//i[@class='oxd-icon bi-chevron-down oxd-icon-button__icon oxd-time-minute-input-down']	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > form:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(3) > i:nth-child(3)
+Click on "none"			//i[@class='oxd-icon bi-chevron-down oxd-icon-button__icon oxd-time-minute-input-down']	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > form:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(3) > i:nth-child(3)
+Click on "none"			//i[@class='oxd-icon bi-chevron-down oxd-icon-button__icon oxd-time-minute-input-down']	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > form:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(3) > i:nth-child(3)
+Click on ":AMPM"			//input[@class='oxd-input oxd-input--focus oxd-time-minute-input-text']	.oxd-input.oxd-input--focus.oxd-time-minute-input-text
+Click on ":AMPM"			//input[@class='oxd-input oxd-input--focus oxd-time-minute-input-text']	.oxd-input.oxd-input--focus.oxd-time-minute-input-text
+Double click on ":AMPM"			//input[@class='oxd-input oxd-input--focus oxd-time-minute-input-text']	.oxd-input.oxd-input--focus.oxd-time-minute-input-text
+Enter "50" into ":AMPM"	50		//input[@class='oxd-input oxd-input--focus oxd-time-minute-input-text']	.oxd-input.oxd-input--focus.oxd-time-minute-input-text
+Click on ":AMPM"			//input[@class='oxd-input oxd-input--focus oxd-time-hour-input-text']	.oxd-input.oxd-input--focus.oxd-time-hour-input-text
+Double click on ":AMPM"			//input[@class='oxd-input oxd-input--focus oxd-time-hour-input-text']	.oxd-input.oxd-input--focus.oxd-time-hour-input-text
+Enter "07" into ":AMPM"	07		//input[@class='oxd-input oxd-input--focus oxd-time-hour-input-text']	.oxd-input.oxd-input--focus.oxd-time-hour-input-text
+Click on ":AMPM"			//input[@class='oxd-input oxd-input--focus oxd-time-hour-input-text']	.oxd-input.oxd-input--focus.oxd-time-hour-input-text
+Enter "23" into ":AMPM"	23		//input[@class='oxd-input oxd-input--focus oxd-time-hour-input-text']	.oxd-input.oxd-input--focus.oxd-time-hour-input-text

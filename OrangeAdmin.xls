@@ -1,0 +1,52 @@
+OS: OS X 10.15.7 | Browser: Chrome 110 | Resolution: 1440x900 | Time: 28 Feb 2023 / 10:7:56  GMT+6
+Step	Data	Exp Result	XPath	cssSelector
+Open website	https://opensource-demo.orangehrmlive.com/web/index.php/time/viewEmployeeTimesheet			
+Click on "Admin"			//a[normalize-space()='']	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(1) > aside:nth-child(1) > nav:nth-child(1) > div:nth-child(2) > ul:nth-child(2) > li:nth-child(1) > a:nth-child(1)
+Click on "Username"			//input[@class='oxd-input oxd-input--focus']	.oxd-input.oxd-input--focus
+Right click on "Username"			//input[@class='oxd-input oxd-input--focus']	.oxd-input.oxd-input--focus
+Enter "Stephen O" into "Username"	Stephen O		//input[@class='oxd-input oxd-input--focus']	.oxd-input.oxd-input--focus
+Click on "-- Select --"			//i[@class='oxd-icon bi-caret-up-fill oxd-select-text--arrow']	.oxd-icon.bi-caret-up-fill.oxd-select-text--arrow
+Right click on "Type for hints..."			//input[@placeholder='Type for hints...']	input[placeholder='Type for hints...']
+Enter "Tom Test" into "Type for hints..."	Tom Test		//input[@placeholder='Type for hints...']	input[placeholder='Type for hints...']
+Click on "-- Select --"			//i[@class='oxd-icon bi-caret-up-fill oxd-select-text--arrow']	.oxd-icon.bi-caret-up-fill.oxd-select-text--arrow
+Click on "Search"			//button[normalize-space()='Search']	button[type='submit']
+Click on "Type for hints..."			//input[@placeholder='Type for hints...']	input[placeholder='Type for hints...']
+Click on "Type for hints..."			//input[@placeholder='Type for hints...']	input[placeholder='Type for hints...']
+Right click on "Type for hints..."			//input[@placeholder='Type for hints...']	input[placeholder='Type for hints...']
+Enter "Stephen O" into "Type for hints..."	Stephen O		//input[@placeholder='Type for hints...']	input[placeholder='Type for hints...']
+Enter "Stephen O" into "Type for hints..."	Stephen O		//input[@placeholder='Type for hints...']	input[placeholder='Type for hints...']
+Click on "Reset"			//button[normalize-space()='Reset']	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > form:nth-child(1) > div:nth-child(3) > button:nth-child(1)
+Click on "Username"			//input[@class='oxd-input oxd-input--focus']	.oxd-input.oxd-input--focus
+Enter "Admin" into "Username"	Admin		//input[@class='oxd-input oxd-input--focus']	.oxd-input.oxd-input--focus
+Click on "-- Select --"			//i[@class='oxd-icon bi-caret-up-fill oxd-select-text--arrow']	.oxd-icon.bi-caret-up-fill.oxd-select-text--arrow
+Click on "Type for hints..."			//input[@placeholder='Type for hints...']	input[placeholder='Type for hints...']
+Click on "Type for hints..."			//input[@placeholder='Type for hints...']	input[placeholder='Type for hints...']
+Enter "Paul Collings" into "Type for hints..."	Paul Collings		//input[@placeholder='Type for hints...']	input[placeholder='Type for hints...']
+Click on "-- Select --"			//i[@class='oxd-icon bi-caret-up-fill oxd-select-text--arrow']	.oxd-icon.bi-caret-up-fill.oxd-select-text--arrow
+Click on "Search"			//button[normalize-space()='Search']	button[type='submit']
+Click on "Search"			//button[normalize-space()='Search']	button[type='submit']
+Click on "Reset"			//button[normalize-space()='Reset']	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > form:nth-child(1) > div:nth-child(3) > button:nth-child(1)
+Click on "Add"			//button[normalize-space()='Add']	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > button:nth-child(1)
+Click on "-- Select --"			//i[@class='oxd-icon bi-caret-up-fill oxd-select-text--arrow']	.oxd-icon.bi-caret-up-fill.oxd-select-text--arrow
+Click on "-- Select --"			//div[contains(text(),'-- Select --')]	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > form:nth-child(3) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1)
+Enter "******" into "PasswordShould have at least 8"	******		//input[@class='oxd-input oxd-input--focus oxd-input--error']	.oxd-input.oxd-input--focus.oxd-input--error
+Click on "Type for hints..."			//input[@placeholder='Type for hints...']	input[placeholder='Type for hints...']
+Enter "Sara Tencrady" into "Type for hints..."	Sara Tencrady		//input[@placeholder='Type for hints...']	input[placeholder='Type for hints...']
+Click on "Username"			//input[@class='oxd-input oxd-input--focus']	.oxd-input.oxd-input--focus
+Enter "saraten" into "Username"	saraten		//input[@class='oxd-input oxd-input--focus']	.oxd-input.oxd-input--focus
+Enter "******" into "PasswordYour password must con"	******		//input[@class='oxd-input oxd-input--focus oxd-input--error']	.oxd-input.oxd-input--focus.oxd-input--error
+Enter "******" into "Confirm Password"	******		//input[@class='oxd-input oxd-input--focus']	.oxd-input.oxd-input--focus
+Click on "Save"			//button[normalize-space()='Save']	button[type='submit']
+Click on "Add UserUser RoleAdminEmployee"			//div[@class='orangehrm-card-container']	.orangehrm-card-container
+Enter "******" into "Password"	******		//input[@class='oxd-input oxd-input--focus']	.oxd-input.oxd-input--focus
+Double click on"******" into "Confirm Password"	******		//input[@class='oxd-input oxd-input--focus']	.oxd-input.oxd-input--focus
+Enter "******" into "Confirm Password"	******		//input[@class='oxd-input oxd-input--focus']	.oxd-input.oxd-input--focus
+Click on "Save"			//button[normalize-space()='Save']	button[type='submit']
+Click on "Username"			//input[@class='oxd-input oxd-input--focus']	.oxd-input.oxd-input--focus
+Enter "saraten" into "Username"	saraten		//input[@class='oxd-input oxd-input--focus']	.oxd-input.oxd-input--focus
+Click on "-- Select --"			//i[@class='oxd-icon bi-caret-up-fill oxd-select-text--arrow']	.oxd-icon.bi-caret-up-fill.oxd-select-text--arrow
+Click on "Type for hints..."			//input[@placeholder='Type for hints...']	input[placeholder='Type for hints...']
+Enter "Sara Tencrady" into "Type for hints..."	Sara Tencrady		//input[@placeholder='Type for hints...']	input[placeholder='Type for hints...']
+Click on "-- Select --"			//div[contains(text(),'-- Select --')]	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > form:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1)
+Click on "Search"			//button[normalize-space()='Search']	button[type='submit']
+Click on "Reset"			//button[normalize-space()='Reset']	body > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > form:nth-child(1) > div:nth-child(3) > button:nth-child(1)
